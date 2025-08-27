@@ -1,6 +1,6 @@
 
 ## Sobre mim
-Olá! 👋 Meu nome é Diogo Marcelino, sou de São Paulo e sempre fui apaixonado por tecnologia. Depois de anos atuando com infraestrutura e suporte em TI, decidi seguir minha verdadeira paixão: o desenvolvimento Front-End.
+Olá! 👋 Meu nome é Diogo Rodrigues, sou de São Paulo e sempre fui apaixonado por tecnologia. Depois de anos atuando com infraestrutura e suporte em TI, decidi seguir minha verdadeira paixão: o desenvolvimento Front-End.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (formatura em 12/2026) e desenvolvendo projetos práticos em HTML, CSS e JavaScript, que compartilho no meu GitHub.
 Meu objetivo é criar interfaces modernas, acessíveis e funcionais, que façam a diferença na experiência do usuário. 🚀
 No meu tempo livre, gosto muito de assistir séries e filmes, além de fazer barulho com a minha guitarra — literalmente! 
