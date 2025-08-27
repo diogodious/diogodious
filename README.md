@@ -1,7 +1,8 @@
 
 ## Sobre mim
-Olá! Meu nome é Diogo, sou de São Paulo – Brasil. Sou profissional da área de redes e, atualmente, estou expandindo minhas habilidades para a área de desenvolvimento. Iniciei a faculdade de Análise e Desenvolvimento de Sistemas com conclusão para Dez/2026 e estou focando em Front-End, uma paixão antiga.
-
+Olá! 👋 Meu nome é Diogo Marcelino, sou de São Paulo e sempre fui apaixonado por tecnologia. Depois de anos atuando com infraestrutura e suporte em TI, decidi seguir minha verdadeira paixão: o desenvolvimento Front-End.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (formatura em 12/2026) e desenvolvendo projetos práticos em HTML, CSS e JavaScript, que compartilho no meu GitHub.
+Meu objetivo é criar interfaces modernas, acessíveis e funcionais, que façam a diferença na experiência do usuário. 🚀
 No meu tempo livre, gosto muito de assistir séries e filmes, além de fazer barulho com a minha guitarra — literalmente! 
  
 
@@ -10,7 +11,6 @@ No meu tempo livre, gosto muito de assistir séries e filmes, além de fazer bar
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
