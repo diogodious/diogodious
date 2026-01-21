@@ -1,12 +1,11 @@
 
 ## Sobre mim
-Olá! 👋 Meu nome é Diogo Rodrigues, sou de São Paulo/Brasil 
-desenvolvedor Front-end apaixonado por transformar ideias em interfaces funcionais, modernas e bem estruturadas. Trabalho principalmente com React, Angular, TypeScript, HTML, CSS e JavaScript, criando aplicações corporativas, componentes reutilizáveis e experiências responsivas focadas em usabilidade e performance.
+Olá! 👋 Meu nome é Diogo Rodrigues, sou desenvolvedor Front-end de São Paulo, Brasil, apaixonado por transformar ideias em interfaces funcionais, modernas e bem estruturadas. Trabalho principalmente com React, Angular, TypeScript, HTML, CSS e JavaScript, desenvolvendo aplicações corporativas, componentes reutilizáveis e experiências responsivas com foco em usabilidade e performance.
 
-Quando não estou codando, você provavelmente vai me encontrar 🎸 tocando guitarra, 🎬 assistindo filmes e séries, ou ✈️ viajando e conhecendo novos lugares — sempre em busca de novas inspirações, dentro e fora do código.
+Quando não estou codando, você provavelmente vai me encontrar 🎸 tocando guitarra, 🎬 assistindo filmes e séries ou ✈️ viajando e conhecendo novos lugares — sempre em busca de novas inspirações, dentro e fora do código.
 
-🚀 Sempre aprendendo, evoluindo e buscando escrever código limpo, organizado e fácil de manter.
- 
+🚀 Estou sempre aprendendo, evoluindo e buscando escrever código limpo, organizado e fácil de manter.
+
 
 ## Conhecimentos em:
 ### Linguagens de Marcação e Estilo
