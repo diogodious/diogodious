@@ -20,7 +20,8 @@ No meu tempo livre, gosto muito de assistir séries e filmes, além de fazer bar
 
 ### Bibliotecas e Frameworks
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white])
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
  
 ### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
